@@ -1,0 +1,1 @@
+This should not be considered as a project but still i have added it cause of this is my first thing i worked on for late nights. Basically this is a web page made using html,css and php which gets the information of the students who add their name for a trip , this data is stored in xampp data base.
